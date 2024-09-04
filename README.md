@@ -1,7 +1,7 @@
 </p>
 </p>
 <p align="center">
-  <a href="https://chat.whatsapp.com/GRIeuAnUgk54u2IL5ujUxJ">
+  <a href="[https://chat.whatsapp.com/GRIeuAnUgk54u2IL5ujUxJ](https://whatsapp.com/channel/0029VaHIvFsLCoX6oii52K2O)">
     <img alt=Support weight="10" src="https://telegra.ph/file/3e81c19e2e4424a41eca2.jpg"> 
     </p>
 <h1 align="center">    ELITE-PRO-V2
@@ -38,7 +38,7 @@ Paste it on panel then Enjoy...
 ---
 
   ## DESCRIPTION
-I'm Elite-Pro a public WhatsApp bot with rich features Created by Chinwo Chinedu Emmanuel. Feel free to deploy my bot in any of the deployment site. 😜
+I'm Mr-Jadi a public WhatsApp bot with rich features Created by Choudhary Jadi & JKL OFFICIAL TEAM. Feel free to deploy my bot in any of the deployment site. 😜
 
  --- 
 - Star ⭐ repo if you like this bot.
